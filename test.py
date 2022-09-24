@@ -26,6 +26,8 @@ class Calculator:
         result = x * y * z
         return result
 
+    # 이상하네
+
 Calculator.init()
 x = 10
 y = 20
