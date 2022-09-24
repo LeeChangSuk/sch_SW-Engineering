@@ -22,6 +22,9 @@ class Calculator:
     def mult(x, y):
         result = x * y
         return result
+    def mult(x, y, z):
+        result = x * y * z
+        return result
 
 Calculator.init()
 x = 10
