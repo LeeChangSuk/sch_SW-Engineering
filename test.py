@@ -26,6 +26,9 @@ class Calculator:
         result = x * y * z
         return result
 
+    # 충돌 발생 시 해결방안
+    # 1. 에디터에서 직접 수정 2. 리셋 3. 마우스 우클릭 -> 어느 브랜치를 사용할 것인지 선택
+
 Calculator.init()
 x = 10
 y = 20
