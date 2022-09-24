@@ -18,6 +18,10 @@ class Calculator:
     def substract(x, y, z):
         result = x - y - z
         return result
+    # 곱하기(version1에서 추가된 기능)
+    def mult(x, y):
+        result = x * y
+        return result
 
 Calculator.init()
 x = 10
